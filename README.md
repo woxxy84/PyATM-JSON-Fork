@@ -1,31 +1,49 @@
-# 🏧 Beginner ATM (Python)
+# 🏧 PyATM (JSON Fork Edition)
 
-A simple command-line ATM simulator built using Python.  
-This beginner-friendly program allows users to check their balance, deposit money, withdraw cash, and exit the system with easy-to-understand prompts and validations.
+> 🔁 Forked from [`PyATM-Beginner-ATM-Sim`](https://github.com/SurajRayOG/PyATM-Beginner-ATM-Sim)  
+> 🛠️ Enhanced by [Woxxy84](https://github.com/woxxy84)
+
+A persistent, smarter command-line ATM simulator built in Python.  
+This upgraded version adds **JSON data saving**, stronger input validation, and a cleaner flow — perfect for beginner coders stepping up their game.
+
+---
 
 ## 🚀 Features
 
-- Check current balance  
-- Deposit money
-- Withdraw money with balance check  
-- Exit option to quit the program  
-- Input validation for safer operations
+- ✅ Check balance anytime
+- ✅ Deposit money with auto-save
+- ✅ Withdraw money with balance validation
+- ✅ Persistent balance stored in `atm_data.json`
+- ✅ Clear error messages for invalid input
+
+---
 
 ## 💡 What You’ll Learn
 
-- Using loops for menu-driven programs  
-- Handling user input and validation  
-- Conditional logic for banking operations  
-- Basic Python syntax and flow control
+- JSON file handling in Python
+- Menu-driven programming using loops
+- Basic input validation & error handling
+- Clean CLI app structure
+- Forking and improving open-source projects
+
+---
 
 ## 🧪 Sample Output
 
 ```bash
-Welcome to our ATM, What would you like to do?
-1. Check the balance
+💳 Welcome to PyATM! What would you like to do?
+
+1. Check Balance
 2. Deposit
-3. Withdrawal
+3. Withdraw
 4. Exit
-Enter your choice: 1
-Your balance is: 10000
-Thank you for using our program
+Enter your choice (1-4): 2
+💵 Enter amount to deposit: 500
+✅ Deposit successful. New balance: 10500
+
+🧑‍💻 Author(s)
+
+    👤 Original: SurajRayOG
+
+    🔥 Editor & Enhancer: Woxxy84
+
