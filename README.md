@@ -40,10 +40,10 @@ This upgraded version adds **JSON data saving**, stronger input validation, and 
 Enter your choice (1-4): 2
 💵 Enter amount to deposit: 500
 ✅ Deposit successful. New balance: 10500
+```
+#🧑‍💻 Author(s)
 
-🧑‍💻 Author(s)
+    ##👤 Original: SurajRayOG
 
-    👤 Original: SurajRayOG
-
-    🔥 Editor & Enhancer: Woxxy84
+    ##🔥 Editor & Enhancer: Woxxy84
 
